@@ -15,7 +15,7 @@ public class CadastroFacebookTest {
 	
 	@Before
 	public void antes() {
-		System.setProperty("webdriver.chrome.driver", "path/to/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "/Users/rafaelpeixotosilva/Downloads/chromedriver");
 		driver = new ChromeDriver();
 		driver.get("http://www.facebook.com");
 	}
@@ -39,11 +39,11 @@ public class CadastroFacebookTest {
 		WebElement comboAno = driver.findElement(By.id("year"));
 		select = new Select(comboAno);
 		select.selectByVisibleText("1980");
-		driver.findElement(By.id("u_0_c")).click();
+		driver.findElement(By.id("u_0_7")).click();
 		driver.findElement(By.name("websubmit")).click();		
 	}
 	
-	@After
+	// @After
 	public void depois() {
 		driver.quit();
 	}
