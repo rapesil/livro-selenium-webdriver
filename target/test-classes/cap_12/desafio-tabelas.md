@@ -113,7 +113,9 @@ A ideia aqui é a seguinte:
 
 1 - Percorrer todos os campos e imprimir seus valores no console.   
 2 - Buscar a linha que tenha o país França e na coluna de títulos, alterar o valor de 1 para 2.  
-3 - Verificar qual o país que tenha mais títulos e imprimir no console.  
+3 - Verificar qual o país que tenha mais títulos e imprimir no console. 
+
+Assim como no exemplo do livro, salve esse código em um arquivo com extensão .html e abra-o no com o Selenium. 
 
 Simples?
 
