@@ -111,9 +111,9 @@ Para este desafio, vamos primeiro conhecer a estrutura da tabela que iremos trab
 
 A ideia aqui é a seguinte:
 
-1 - Percorrer todos os campos e imprimir seus valores no console. 
-2 - Buscar a linha que tenha o país França e na coluna de títulos, alterar o valor de 1 para 2.
-3 - Verificar qual o país que tenha mais títulos e imprimir no console.
+1 - Percorrer todos os campos e imprimir seus valores no console.   
+2 - Buscar a linha que tenha o país França e na coluna de títulos, alterar o valor de 1 para 2.  
+3 - Verificar qual o país que tenha mais títulos e imprimir no console.  
 
 Simples?
 
